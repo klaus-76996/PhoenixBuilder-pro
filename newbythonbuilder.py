@@ -11,9 +11,9 @@ Style = style.Style()
 title = \
 """
 ┌────────────────────────────────────────────────┐
-| [#0eeae3]https://gitee.com/mono163/bython-builder       [/#0eeae3]|
+| [#0eeae3]https://github.com/klaus-76996/PhoenixBuilder-pro       [/#0eeae3]|
 └────────────────────────────────────────────────┘
-[yellow]FastBuilder 11.45.14 (unknow)[/yellow]
+[yellow]PhoenixBuilder 1.0.9 (unknow)[/yellow]
 [red]%s[/red]
 %s""" % (languages.message_1, languages.Special_Startup)
 console = console.Console()
